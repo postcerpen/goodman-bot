@@ -1,0 +1,28 @@
+{
+  "name": "Goodman-bot",
+  "version": "1.0.0",
+  "description": "Goodman bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postcerpen/goodman-bot"
+  },
+  "keywords": [
+    "Goodman",
+    "bot",
+    "Heroku"
+  ],
+  "author": "postcerpen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicoAcosta/whatsapp-heroku-bot/issues"
+  },
+  "homepage": "https://github.com/NicoAcosta/whatsapp-heroku-bot#readme",
+  "dependencies": {
+    "venom-bot": "^3.0.20"
+  }
+}
