@@ -1,5 +1,5 @@
 {
-  "name": "Goodman-bot",
+  "name": "goodman-bot",
   "version": "1.0.0",
   "description": "Goodman bot",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/postcerpen/goodman-bot"
+    "url": "git+https://github.com/postcerpen/goodman-bot.git"
   },
   "keywords": [
     "Goodman",
@@ -24,5 +24,6 @@
   "homepage": "https://github.com/NicoAcosta/whatsapp-heroku-bot#readme",
   "dependencies": {
     "venom-bot": "^3.0.20"
-  }
+  },
+  "devDependencies": {}
 }
